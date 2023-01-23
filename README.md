@@ -8,8 +8,8 @@ O objetivo dessa página é incluir os materiais das disciplinas lecionadas no I
 
 ## Links úteis
 
-<!---* [Python](/links/python.md) --->
-<!---* [Data Mining](/links/datamining.md) --->
+* [Python](/links/python.md)
+* [Data Mining](/links/datamining.md)
 
 ## Meus contatos
 
