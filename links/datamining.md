@@ -2,11 +2,11 @@
 
 ## Python para Data Science
 
-* Dicas para usar expressões regulares: [Link](https://towardsdatascience.com/7-useful-tricks-for-python-regex-you-should-know-ec20381e22f2)
-* Mais dicas para expressões regulares: [Link](https://betterprogramming.pub/your-guide-to-regular-expressions-in-python-terminal-b54d25cbe185)
-* Manipulação de arquivos .json: [Link](https://medium.com/@durgaswaroop/json-parsing-with-python-15a41c6fe03a)
-* Tutorial básico sobre Jupyter notebooks: [Link](https://towardsdatascience.com/jupyter-notebook-for-beginners-a-tutorial-f55b57c23ada)
-* Introdução a NumPy: [Link](https://medium.com/@yp7121/a-visual-intro-to-numpy-2903458d25ea)
+* [Dicas para usar expressões regulares](https://towardsdatascience.com/7-useful-tricks-for-python-regex-you-should-know-ec20381e22f2)
+* [Mais dicas para expressões regulares](https://betterprogramming.pub/your-guide-to-regular-expressions-in-python-terminal-b54d25cbe185)
+* [Manipulação de arquivos JSON](https://medium.com/@durgaswaroop/json-parsing-with-python-15a41c6fe03a)
+* [Tutorial básico sobre Jupyter notebooks](https://towardsdatascience.com/jupyter-notebook-for-beginners-a-tutorial-f55b57c23ada)
+* [Introdução a NumPy](https://medium.com/@yp7121/a-visual-intro-to-numpy-2903458d25ea)
 
 ## Explorando dados
 
