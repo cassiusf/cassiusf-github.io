@@ -5,6 +5,14 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Agenda](agenda.md)
 * [GRID](grid.md)
 
+## Sugestões de canais no YouTube
+* [Programação Dinâmica](https://www.youtube.com/c/ProgramacaoDinamica/)
+* [Curso em Vídeo](https://www.youtube.com/c/CursoemVideo/)
+* [Sentdex (em inglês)](https://www.youtube.com/c/sentdex)
+* [Filipe Deschamps](https://www.youtube.com/c/FilipeDeschamps)
+* [DevMedia](https://www.youtube.com/c/DevmediaBrasil)
+* [FreeCodeCamp.org](https://www.youtube.com/c/freeCodeCamp)
+
 ## Material geral
 
 <!-- * [Apresentação da disciplina](/./assets/ibm0112_datamining/00 - Apresentação.pdf) -->
