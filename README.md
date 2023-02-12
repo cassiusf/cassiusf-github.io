@@ -4,7 +4,7 @@ O objetivo dessa página é incluir os materiais das disciplinas lecionadas no I
 
 ## Disciplinas
 
-* [IBM0112 - Data Mining](/pasta/pasta.md)
+* [IBM0112 - Data Mining](/ibm0112_datamining/datamining.md)
 
 ## Links úteis
 
