@@ -15,7 +15,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 ## Material geral
 
-<!-- * [Apresentação da disciplina](/./assets/ibm0112_datamining/00 - Apresentação.pdf) -->
+* [Apresentação da disciplina](/./assets/ibm0112_datamining/00 - Apresentação.pdf)
 
 ## Códigos para aula
 
