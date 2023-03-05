@@ -13,6 +13,6 @@ O objetivo dessa página é incluir os materiais das disciplinas lecionadas no I
 
 ## Meus contatos
 
-<!---* E-mail: <@professores.ibmec.edu.br> --->
+* [E-mail](mailto:cassius.figueiredo@professores.ibmec.edu.br)
 * [Linkedin](https://www.linkedin.com/in/cassius-figueiredo-935161/)
 * [Lattes](http://lattes.cnpq.br/6086456723825574)
