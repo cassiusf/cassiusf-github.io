@@ -11,9 +11,9 @@
 |   27/fev   |            Revisão de Python            |
 |   03/mar   |            Revisão de Python            |
 |   06/mar   |            Revisão de Python            |
-|   10/mar   |        Laboratório de informática       |
-|   13/mar   |     O processo de mineração de dados    |
-|   17/mar   |     Extração e transformação de dados   |
+|   10/mar   |            Revisão de Python            |
+|   13/mar   |        Laboratório de informática       |
+|   17/mar   |     O processo de mineração de dados    |
 |   20/mar   |     Extração e transformação de dados   |
 |   24/mar   |     Extração e transformação de dados   |
 |   27/mar   |     Extração e transformação de dados   |
