@@ -23,8 +23,8 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 * [Aula 00 - Quebrando o gelo](https://colab.research.google.com/drive/1vQoxrbuPdCDfmjf7-RkxWLz1Lvh7_Rpy?usp=sharing)
 * [Aulas 01 a 06 - Introdução à linguagem Python](https://colab.research.google.com/drive/17ezIoN4F93loBHCAuxuZeDTpH3TDcpWl?usp=sharing)
-<!-- * [Aula 03 - Estruturas de decisão](https://colab.research.google.com/drive/1eqZuYVWOBxtgYRp1vE0BMhjCXgIcImDh?usp=sharing) -->
-<!-- * [Aula 04 - Estruturas de decisão](https://colab.research.google.com/drive/1v4pPRQB7Olya8Q9638Hyj-GBz6Wb-hgv?usp=sharing) -->
+<!-- * [LAB 01 - Tarefas práticas](https://colab.research.google.com/drive/1cTJbReUXSBaQxcYHJ1XLDR0yM95M0cRX?usp=sharing) -->
+<!-- * [LAB 01 - Tarefas práticas (proposta de soluções)]() -->
 
 ## Atividades
 
