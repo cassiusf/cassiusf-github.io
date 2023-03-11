@@ -17,15 +17,16 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 * [Apresentação da disciplina](/./assets/ibm0112_datamining/00 - Apresentação.pdf)
 * [Introdução ao Python](/./assets/ibm0112_datamining/01 - Introduçao ao Python.pdf)
+* [O processo de mineraçao de dados](/./assets/ibm0112_datamining/02 - O processo de mineraçao de dados.pdf)
 
 ## Códigos para aula
 
 * [Aula 00 - Quebrando o gelo](https://colab.research.google.com/drive/1vQoxrbuPdCDfmjf7-RkxWLz1Lvh7_Rpy?usp=sharing)
-* [Aulas 01 e 02 - Introdução à linguagem Python](https://colab.research.google.com/drive/17ezIoN4F93loBHCAuxuZeDTpH3TDcpWl?usp=sharing)
+* [Aulas 01 a 06 - Introdução à linguagem Python](https://colab.research.google.com/drive/17ezIoN4F93loBHCAuxuZeDTpH3TDcpWl?usp=sharing)
 <!-- * [Aula 03 - Estruturas de decisão](https://colab.research.google.com/drive/1eqZuYVWOBxtgYRp1vE0BMhjCXgIcImDh?usp=sharing) -->
 <!-- * [Aula 04 - Estruturas de decisão](https://colab.research.google.com/drive/1v4pPRQB7Olya8Q9638Hyj-GBz6Wb-hgv?usp=sharing) -->
 
-## Notas de aula
+## Atividades
 
 
 ## Dados usados em sala
