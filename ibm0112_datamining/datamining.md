@@ -27,7 +27,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 ## Atividades
 
-<!-- * [LAB 01 - Tarefas práticas](https://colab.research.google.com/drive/1cTJbReUXSBaQxcYHJ1XLDR0yM95M0cRX?usp=sharing) -->
+* [LAB 01 - Tarefas práticas](https://colab.research.google.com/drive/1cTJbReUXSBaQxcYHJ1XLDR0yM95M0cRX?usp=sharing)
 <!-- * [LAB 01 - Tarefas práticas (proposta de soluções)]() -->
 
 ## Dados usados em sala
