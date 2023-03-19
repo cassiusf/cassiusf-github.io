@@ -23,7 +23,9 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 * [Aula 00 - Quebrando o gelo](https://colab.research.google.com/drive/1vQoxrbuPdCDfmjf7-RkxWLz1Lvh7_Rpy?usp=sharing)
 * [Aulas 01 a 06 - Introdução à linguagem Python](https://colab.research.google.com/drive/17ezIoN4F93loBHCAuxuZeDTpH3TDcpWl?usp=sharing)
-<!-- * [LAB 01 - Tarefas práticas](https://colab.research.google.com/drive/1cTJbReUXSBaQxcYHJ1XLDR0yM95M0cRX?usp=sharing) -->
+* [Aula 07 - Importação de módulos externos (bibliotecas) com linguagem Python](https://colab.research.google.com/drive/1TK7F6_QKc4I4Abb2hDaLawf3oN07FVqs?usp=sharing)
+* [Aula 08 - A biblioteca Pandas e extração de dados com linguagem Python](https://colab.research.google.com/drive/1qj64vrYy-RXaia6g4daPJ4qFwIggjbmN?usp=sharing)
+
 
 ## Atividades
 
@@ -31,7 +33,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 <!-- * [LAB 01 - Tarefas práticas (proposta de soluções)]() -->
 
 ## Dados usados em sala
-
+* [Dados para a Aula 08](https://drive.google.com/file/d/1ho-i86l8l0hQD90A6GfuLqXZI1YhUjla/view?usp=sharing)
 
 ---
 
