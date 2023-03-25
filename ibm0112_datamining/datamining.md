@@ -30,10 +30,13 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 ## Atividades
 
 * [LAB 01 - Tarefas práticas](https://colab.research.google.com/drive/1cTJbReUXSBaQxcYHJ1XLDR0yM95M0cRX?usp=sharing)
-<!-- * [LAB 01 - Tarefas práticas (proposta de soluções)]() -->
+<!-- * [LAB 01 - Tarefas práticas (proposta de soluções)](https://colab.research.google.com/drive/1yeGEYJbsspbOUC4dE8P05IrwU8kOumpI?usp=sharing) -->
 
 ## Dados usados em sala
 * [Dados para a Aula 08](https://drive.google.com/file/d/1ho-i86l8l0hQD90A6GfuLqXZI1YhUjla/view?usp=sharing)
+
+## Resultados
+<!-- * [LAB 01 - Tarefas práticas - Resultado](/./assets/ibm0112_datamining/Turma8001_S12023_Resultados_Lab01_v1.pdf) -->
 
 ---
 
