@@ -17,7 +17,7 @@
 |   20/mar   |     Extração e transformação de dados   |
 |   24/mar   |     Extração e transformação de dados   |
 |   27/mar   |     Extração e transformação de dados   |
-|   31/mar   |        Laboratório de informática       |
+|   31/mar   |     Extração e transformação de dados   |
 |   03/abr   |          Visualizaçao de dados          |
 | **07/abr** |     **FERIADO - SEXTA-FEIRA SANTA**     |
 |   10/abr   |          Visualização de dados          |
