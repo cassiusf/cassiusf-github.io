@@ -25,6 +25,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Aulas 01 a 06 - Introdução à linguagem Python](https://colab.research.google.com/drive/17ezIoN4F93loBHCAuxuZeDTpH3TDcpWl?usp=sharing)
 * [Aula 07 - Importação de módulos externos (bibliotecas) com linguagem Python](https://colab.research.google.com/drive/1TK7F6_QKc4I4Abb2hDaLawf3oN07FVqs?usp=sharing)
 * [Aula 08 - A biblioteca Pandas e extração de dados com linguagem Python](https://colab.research.google.com/drive/1qj64vrYy-RXaia6g4daPJ4qFwIggjbmN?usp=sharing)
+* [Aula 09 - Manipulando dados com a biblioteca Pandas](https://colab.research.google.com/drive/1RISlStIuueriKsLShjaMutqEHAKSX6_A?usp=sharing)
 
 
 ## Atividades
@@ -33,7 +34,8 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 <!-- * [LAB 01 - Tarefas práticas (proposta de soluções)](https://colab.research.google.com/drive/1yeGEYJbsspbOUC4dE8P05IrwU8kOumpI?usp=sharing) -->
 
 ## Dados usados em sala
-* [Dados para a Aula 08](https://drive.google.com/file/d/1ho-i86l8l0hQD90A6GfuLqXZI1YhUjla/view?usp=sharing)
+* [Dados para a Aula 08](/./assets/ibm0112_datamining/Dados_Aula08.zip)
+* [Dados para a Aula 09](/./assets/ibm0112_datamining/Dados_Aula09.zip)
 
 ## Resultados
 <!-- * [LAB 01 - Tarefas práticas - Resultado](/./assets/ibm0112_datamining/Turma8001_S12023_Resultados_Lab01_v1.pdf) -->
