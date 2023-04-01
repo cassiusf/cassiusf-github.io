@@ -18,6 +18,8 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Apresentação da disciplina](/./assets/ibm0112_datamining/00 - Apresentação.pdf)
 * [Introdução ao Python](/./assets/ibm0112_datamining/01 - Introduçao ao Python.pdf)
 * [O processo de mineraçao de dados](/./assets/ibm0112_datamining/02 - O processo de mineraçao de dados.pdf)
+* [Visualização de dados](/./assets/ibm0112_datamining/03 - Visualização de dados.pdf)
+* [Tipos de visualizaçõs de dados](/./assets/ibm0112_datamining/04 - Tipos de visualizações de dados.pdf)
 
 ## Códigos para aula
 
@@ -26,6 +28,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Aula 07 - Importação de módulos externos (bibliotecas) com linguagem Python](https://drive.google.com/file/d/1Dyk5c18dz1EJeTG_zb7APiR3S59-g6N4/view?usp=sharing)
 * [Aula 08 - A biblioteca Pandas e extração de dados com linguagem Python](https://drive.google.com/file/d/1-EjbsfgRCpJx33sJ0-h7IszwCh1i0nNw/view?usp=sharing)
 * [Aula 09 - Manipulando dados com a biblioteca Pandas](https://drive.google.com/file/d/1fvXb9aUnaNJu_f7NvQa9EZNNtB11onKM/view?usp=sharing)
+* [Aulas 10 e 11 - Visualizando dados (Distribuições)](https://drive.google.com/file/d/1SMekUk7PdPU9GA76Yo3fOqscemwpWAa5/view?usp=sharing)
 
 
 ## Atividades
@@ -35,7 +38,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 ## Dados usados em sala
 * [Dados para a Aula 08](/./assets/ibm0112_datamining/Dados_Aula08.zip)
-* [Dados para a Aula 09](/./assets/ibm0112_datamining/Dados_Aula09.zip)
+* [Dados para a Aulas 09, 10 e 11](/./assets/ibm0112_datamining/Dados_Aula09.zip)
 
 ## Resultados
 * [LAB 01 - Tarefas práticas - Resultado](/./assets/ibm0112_datamining/Turma8001_S12023_Resultados_Lab01_v1.pdf)
