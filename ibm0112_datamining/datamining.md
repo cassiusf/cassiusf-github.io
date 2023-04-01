@@ -21,17 +21,17 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 ## Códigos para aula
 
-* [Aula 00 - Quebrando o gelo](https://colab.research.google.com/drive/1vQoxrbuPdCDfmjf7-RkxWLz1Lvh7_Rpy?usp=sharing)
-* [Aulas 01 a 06 - Introdução à linguagem Python](https://colab.research.google.com/drive/17ezIoN4F93loBHCAuxuZeDTpH3TDcpWl?usp=sharing)
-* [Aula 07 - Importação de módulos externos (bibliotecas) com linguagem Python](https://colab.research.google.com/drive/1TK7F6_QKc4I4Abb2hDaLawf3oN07FVqs?usp=sharing)
-* [Aula 08 - A biblioteca Pandas e extração de dados com linguagem Python](https://colab.research.google.com/drive/1qj64vrYy-RXaia6g4daPJ4qFwIggjbmN?usp=sharing)
-* [Aula 09 - Manipulando dados com a biblioteca Pandas](https://colab.research.google.com/drive/1RISlStIuueriKsLShjaMutqEHAKSX6_A?usp=sharing)
+* [Aula 00 - Quebrando o gelo](https://drive.google.com/file/d/1ucfSOn7Su8uJPRAP4bqN7IKdRuJmwiVP/view?usp=sharing)
+* [Aulas 01 a 06 - Introdução à linguagem Python](https://drive.google.com/file/d/1X3bCtwIsB5eb4u2IBEDe-0l9pjsT673B/view?usp=sharing)
+* [Aula 07 - Importação de módulos externos (bibliotecas) com linguagem Python](https://drive.google.com/file/d/1Dyk5c18dz1EJeTG_zb7APiR3S59-g6N4/view?usp=sharing)
+* [Aula 08 - A biblioteca Pandas e extração de dados com linguagem Python](https://drive.google.com/file/d/1-EjbsfgRCpJx33sJ0-h7IszwCh1i0nNw/view?usp=sharing)
+* [Aula 09 - Manipulando dados com a biblioteca Pandas](https://drive.google.com/file/d/1fvXb9aUnaNJu_f7NvQa9EZNNtB11onKM/view?usp=sharing)
 
 
 ## Atividades
 
-* [LAB 01 - Tarefas práticas](https://colab.research.google.com/drive/1cTJbReUXSBaQxcYHJ1XLDR0yM95M0cRX?usp=sharing)
-* [LAB 01 - Tarefas práticas (proposta de soluções)](https://colab.research.google.com/drive/1yeGEYJbsspbOUC4dE8P05IrwU8kOumpI?usp=sharing)
+* [LAB 01 - Tarefas práticas](https://drive.google.com/file/d/1rgBgFF_RHh8JUyXkblFyelZGkNAis1Ix/view?usp=sharing)
+* [LAB 01 - Tarefas práticas (proposta de soluções)](https://drive.google.com/file/d/1-kpZgFbn4jx1UxBs0FB2AEOGvcnEdYej/view?usp=sharing)
 
 ## Dados usados em sala
 * [Dados para a Aula 08](/./assets/ibm0112_datamining/Dados_Aula08.zip)
