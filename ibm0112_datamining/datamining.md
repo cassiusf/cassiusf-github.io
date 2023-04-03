@@ -18,7 +18,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Apresentação da disciplina](/./assets/ibm0112_datamining/00 - Apresentação.pdf)
 * [Introdução ao Python](/./assets/ibm0112_datamining/01 - Introduçao ao Python.pdf)
 * [O processo de mineraçao de dados](/./assets/ibm0112_datamining/02 - O processo de mineraçao de dados.pdf)
-<!-- * [Visualização de dados](/./assets/ibm0112_datamining/03 - Visualização de dados.pdf) -->
+* [Visualização de dados](/./assets/ibm0112_datamining/03 - Visualização de dados.pdf)
 <!-- * [Tipos de visualizações de dados](/./assets/ibm0112_datamining/04 - Tipos de visualizações de dados.pdf) -->
 
 ## Códigos para aula
