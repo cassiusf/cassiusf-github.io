@@ -22,10 +22,10 @@
 | **07/abr** |     **FERIADO - SEXTA-FEIRA SANTA**     |
 |   10/abr   |          Visualização de dados          |
 | **14/abr** |            **Semana de AP1**            |
-| **17/abr** |            **Semana de AP1**            |
+| **17/abr** |             **ENTREGA AP1**             |
 | **21/abr** |        **FERIADO - TIRADENTES**         |
-|   24/abr   |          K-vizinhos próximos            |
-|   28/abr   |        Laboratório de informática       |
+|   24/abr   |          Vista de prova (AP1)           |
+|   28/abr   |          K-vizinhos próximos            |
 | **01/mai** |      **FERIADO - DIA DO TRABALHO**      |
 |   05/mai   |               Naive Bayes               |
 |   08/mai   |               Naive Bayes               |
@@ -41,9 +41,9 @@
 | **09/jun** |      **RECESSO CORPUS CHRISTI**         |
 |   12/jun   | Deploy de modelos de mineração de dados |
 | **16/jun** |            **Semana de AP2**            |
-| **19/jun** |            **Semana de AP2**            |
+| **19/jun** |             **ENTREGA AP2**             |
 |   23/jun   |              Sem atividades             |
-| **26/jun** |            **Semana de AS**             |
+| **26/jun** |             **ENTREGA AS **             |
 | **30/jun** |            **Semana de AS**             |
 |   03/jul   |              Sem atividades             |
 |   04/jul   |         Encerramento do semestre        |
