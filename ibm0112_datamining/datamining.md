@@ -19,7 +19,8 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Introdução ao Python](/./assets/ibm0112_datamining/01 - Introduçao ao Python.pdf)
 * [O processo de mineraçao de dados](/./assets/ibm0112_datamining/02 - O processo de mineraçao de dados.pdf)
 * [Visualização de dados](/./assets/ibm0112_datamining/03 - Visualização de dados.pdf)
-<!-- * [Tipos de visualizações de dados](/./assets/ibm0112_datamining/04 - Tipos de visualizações de dados.pdf) -->
+* [Tipos de visualizações de dados](/./assets/ibm0112_datamining/04 - Tipos de visualizações de dados.pdf)
+<!-- * [DESCRIÇÃO](LINK) -->
 
 ## Códigos para aula
 
@@ -35,6 +36,8 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 * [LAB 01 - Tarefas práticas](https://drive.google.com/file/d/1rgBgFF_RHh8JUyXkblFyelZGkNAis1Ix/view?usp=sharing)
 * [LAB 01 - Tarefas práticas (proposta de soluções)](https://drive.google.com/file/d/1-kpZgFbn4jx1UxBs0FB2AEOGvcnEdYej/view?usp=sharing)
+* [AP1 - Registro de grupos (até as 23h59min do dia 10/04/2023)][(https://drive.google.com/file/d/15iVa1RwARtAarW_adclbiNbt8T9MoBpq/view?usp=sharing)
+<!-- * [AP1 - Questões](https://drive.google.com/file/d/1nbsDL0xjMPAfQb5X__z8-SPOObHoGAPB/view?usp=sharing) -->
 
 ## Dados usados em sala
 * [Dados para a Aula 08](/./assets/ibm0112_datamining/Dados_Aula08.zip)
