@@ -48,6 +48,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 ## Resultados
 * [LAB 01 - Tarefas práticas - Resultado](/./assets/ibm0112_datamining/Turma8001_S12023_Resultados_Lab01_v1.pdf)
+* [AP1 - Resultado](/./assets/ibm0112_datamining/Turma8001_S12023_Resultados_AP1.pdf)
 
 ---
 
