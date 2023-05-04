@@ -20,7 +20,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [O processo de mineraçao de dados](/./assets/ibm0112_datamining/02 - O processo de mineraçao de dados.pdf)
 * [Visualização de dados](/./assets/ibm0112_datamining/03 - Visualização de dados.pdf)
 * [Tipos de visualizações de dados](/./assets/ibm0112_datamining/04 - Tipos de visualizações de dados.pdf)
-<!-- * [Avaliação de modelos](/./assets/ibm0112_datamining/05 - Avaliação de modelos.pdf) -->
+* [Avaliação de modelos](/./assets/ibm0112_datamining/05 - Avaliação de modelos.pdf)
 <!-- * [DESCRIÇÃO](LINK) -->
 
 ## Códigos para aula
