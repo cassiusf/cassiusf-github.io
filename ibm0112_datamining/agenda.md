@@ -27,19 +27,19 @@
 |   24/abr   |          Vista de prova (AP1)           |
 |   28/abr   |          K-vizinhos próximos            |
 | **01/mai** |      **FERIADO - DIA DO TRABALHO**      |
-|   05/mai   |               Naive Bayes               |
-|   08/mai   |               Naive Bayes               |
-|   12/mai   |   Regressão linear simples e múltipla   |
-|   15/mai   | Regressão linear polinomial e logística |
-|   19/mai   |            Árvores de decisão           |
+|   05/mai   |          Métricas e modelagem           |
+|   08/mai   |          K-vizinhos próximos            |
+|   12/mai   |               Naive Bayes               |
+|   15/mai   |       Regressão linear e logística      |
+|   19/mai   |       Regressão linear e logística      |
 |   22/mai   |            Árvores de decisão           |
-|   26/mai   |        Laboratório de informática       |
+|   26/mai   |            Árvores de decisão           |
 |   29/mai   |               Agrupamentos              |
-|   02/jun   |              Redes Neurais              |
-|   05/jun   |              Redes Neurais              |
-| **08/jun** |      **FERIADO CORPUS CHRISTI**         |
-| **09/jun** |      **RECESSO CORPUS CHRISTI**         |
-|   12/jun   | Deploy de modelos de mineração de dados |
+|   02/jun   |               Agrupamentos              |
+|   05/jun   |        Laboratório de informática       |
+| **08/jun** |        **FERIADO CORPUS CHRISTI**       |
+| **09/jun** |        **RECESSO CORPUS CHRISTI**       |
+|   12/jun   |        Laboratório de informática       |
 | **16/jun** |            **Semana de AP2**            |
 | **19/jun** |             **ENTREGA AP2**             |
 |   23/jun   |              Sem atividades             |
