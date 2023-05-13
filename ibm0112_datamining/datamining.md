@@ -21,6 +21,9 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Visualização de dados](/./assets/ibm0112_datamining/03 - Visualização de dados.pdf)
 * [Tipos de visualizações de dados](/./assets/ibm0112_datamining/04 - Tipos de visualizações de dados.pdf)
 * [Avaliação de modelos](/./assets/ibm0112_datamining/05 - Avaliação de modelos.pdf)
+* [KNN](/./assets/ibm0112_datamining/06 - KNN.pdf)
+* [Naïve bayes](/./assets/ibm0112_datamining/07 - Naive Bayes.pdf)
+<!-- * [Árvores de decisão](/./assets/ibm0112_datamining/08 - Árvores de Decisão.pdf) -->
 <!-- * [DESCRIÇÃO](LINK) -->
 
 ## Códigos para aula
@@ -32,6 +35,9 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Aula 09 - Manipulando dados com a biblioteca Pandas](https://drive.google.com/file/d/1fvXb9aUnaNJu_f7NvQa9EZNNtB11onKM/view?usp=sharing)
 * [Aulas 10 e 11 - Visualizando dados (Distribuições)](https://drive.google.com/file/d/1SMekUk7PdPU9GA76Yo3fOqscemwpWAa5/view?usp=sharing)
 * [Aulas 12 e 13 - Visualizando dados em Python](https://drive.google.com/file/d/15Vu65XXkNmzGE34FpJiBP8VHod_QmwRq/view?usp=sharing)
+* [Aula 16 - KNN](https://drive.google.com/file/d/1ManMJsz5SeJK_5hAX-DZ9M1N16-kf86q/view?usp=sharing)
+* [Aula 18 - Naïve Bayes](https://drive.google.com/file/d/1txLX-GxdGm6Hyi-_LkPfdNFPKdWOjfsD/view?usp=sharing)
+<!-- * [Aula 20 - Árvores de decisão](https://drive.google.com/file/d/1Y7FtgZaq5MMWjISg2zWczXbFTUWR_0jQ/view?usp=sharing) -->
 
 ## Atividades
 
@@ -46,6 +52,8 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Dados para a Aula 08](/./assets/ibm0112_datamining/Dados_Aula08.zip)
 * [Dados para a Aulas 09, 10 e 11](/./assets/ibm0112_datamining/Dados_Aula09.zip)
 * [Dados para a Aulas 12 e 13](/./assets/ibm0112_datamining/Dados_Aulas12e13.zip)
+* [Dados para a Aula 18 (Naive Bayes)](/./assets/ibm0112_datamining/Dados_Aula18.zip)
+<!-- * [Dados para a Aula 20 (Árvores de decisão)](/./assets/ibm0112_datamining/Dados_Aula20.zip) -->
 
 ## Resultados
 * [LAB 01 - Tarefas práticas - Resultado](/./assets/ibm0112_datamining/Turma8001_S12023_Resultados_Lab01_v1.pdf)
