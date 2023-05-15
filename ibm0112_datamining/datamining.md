@@ -15,16 +15,15 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 ## Material geral
 
-* [Apresentação da disciplina](/./assets/ibm0112_datamining/00 - Apresentação.pdf)
-* [Introdução ao Python](/./assets/ibm0112_datamining/01 - Introduçao ao Python.pdf)
-* [O processo de mineraçao de dados](/./assets/ibm0112_datamining/02 - O processo de mineraçao de dados.pdf)
-* [Visualização de dados](/./assets/ibm0112_datamining/03 - Visualização de dados.pdf)
-* [Tipos de visualizações de dados](/./assets/ibm0112_datamining/04 - Tipos de visualizações de dados.pdf)
-* [Avaliação de modelos](/./assets/ibm0112_datamining/05 - Avaliação de modelos.pdf)
-* [KNN](/./assets/ibm0112_datamining/06 - KNN.pdf)
-* [Naïve bayes](/./assets/ibm0112_datamining/07 - Naive Bayes.pdf)
+<!-- * [Apresentação da disciplina](/./assets/ibm0112_datamining/00 - Apresentação.pdf) -->
+<!-- * [Introdução ao Python](/./assets/ibm0112_datamining/01 - Introduçao ao Python.pdf) -->
+<!-- * [O processo de mineraçao de dados](/./assets/ibm0112_datamining/02 - O processo de mineraçao de dados.pdf) -->
+<!-- * [Visualização de dados](/./assets/ibm0112_datamining/03 - Visualização de dados.pdf) -->
+<!-- * [Tipos de visualizações de dados](/./assets/ibm0112_datamining/04 - Tipos de visualizações de dados.pdf) -->
+<!-- * [Avaliação de modelos](/./assets/ibm0112_datamining/05 - Avaliação de modelos.pdf) -->
+<!-- * [KNN](/./assets/ibm0112_datamining/06 - KNN.pdf) -->
+<!-- * [Naïve bayes](/./assets/ibm0112_datamining/07 - Naive Bayes.pdf) -->
 <!-- * [Árvores de decisão](/./assets/ibm0112_datamining/08 - Árvores de Decisão.pdf) -->
-<!-- * [DESCRIÇÃO](LINK) -->
 
 ## Códigos para aula
 
