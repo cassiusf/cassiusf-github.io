@@ -46,6 +46,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [AP1 - Questões](https://drive.google.com/file/d/1nbsDL0xjMPAfQb5X__z8-SPOObHoGAPB/view?usp=sharing)
 * [AP1 - Bases (Utilize apenas a designada para seu grupo!)](/./assets/ibm0112_datamining/AP1_Bases.zip)
 * [AP1 - Proposta de soluções](https://drive.google.com/file/d/1FioPBy6Qqub52QmXzfWuYJnD3v-gZxZ6/view?usp=sharing)
+* [AP2 - Registro de grupos](https://drive.google.com/file/d/1VdITxPmgC9wePdZelvYEX605Pr5KXwOt/view?usp=sharing)
 
 ## Dados usados em sala
 * [Dados para a Aula 08](/./assets/ibm0112_datamining/Dados_Aula08.zip)
