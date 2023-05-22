@@ -15,15 +15,15 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 ## Material geral
 
-<!-- * [Apresentação da disciplina](/./assets/ibm0112_datamining/00 - Apresentação.pdf) -->
-<!-- * [Introdução ao Python](/./assets/ibm0112_datamining/01 - Introduçao ao Python.pdf) -->
-<!-- * [O processo de mineraçao de dados](/./assets/ibm0112_datamining/02 - O processo de mineraçao de dados.pdf) -->
-<!-- * [Visualização de dados](/./assets/ibm0112_datamining/03 - Visualização de dados.pdf) -->
-<!-- * [Tipos de visualizações de dados](/./assets/ibm0112_datamining/04 - Tipos de visualizações de dados.pdf) -->
-<!-- * [Avaliação de modelos](/./assets/ibm0112_datamining/05 - Avaliação de modelos.pdf) -->
-<!-- * [KNN](/./assets/ibm0112_datamining/06 - KNN.pdf) -->
-<!-- * [Naïve bayes](/./assets/ibm0112_datamining/07 - Naive Bayes.pdf) -->
-<!-- * [Árvores de decisão](/./assets/ibm0112_datamining/08 - Árvores de Decisão.pdf) -->
+* [Apresentação da disciplina](/./assets/ibm0112_datamining/00 - Apresentação.pdf)
+* [Introdução ao Python](/./assets/ibm0112_datamining/01 - Introduçao ao Python.pdf)
+* [O processo de mineraçao de dados](/./assets/ibm0112_datamining/02 - O processo de mineraçao de dados.pdf)
+* [Visualização de dados](/./assets/ibm0112_datamining/03 - Visualização de dados.pdf)
+* [Tipos de visualizações de dados](/./assets/ibm0112_datamining/04 - Tipos de visualizações de dados.pdf)
+* [Avaliação de modelos](/./assets/ibm0112_datamining/05 - Avaliação de modelos.pdf)
+* [KNN](/./assets/ibm0112_datamining/06 - KNN.pdf)
+* [Naïve bayes](/./assets/ibm0112_datamining/07 - Naive Bayes.pdf)
+* [Árvores de decisão](/./assets/ibm0112_datamining/08 - Árvores de Decisão.pdf)
 
 ## Códigos para aula
 
@@ -36,7 +36,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Aulas 12 e 13 - Visualizando dados em Python](https://drive.google.com/file/d/15Vu65XXkNmzGE34FpJiBP8VHod_QmwRq/view?usp=sharing)
 * [Aula 16 - KNN](https://drive.google.com/file/d/1ManMJsz5SeJK_5hAX-DZ9M1N16-kf86q/view?usp=sharing)
 * [Aula 18 - Naïve Bayes](https://drive.google.com/file/d/1txLX-GxdGm6Hyi-_LkPfdNFPKdWOjfsD/view?usp=sharing)
-<!-- * [Aula 20 - Árvores de decisão](https://drive.google.com/file/d/1Y7FtgZaq5MMWjISg2zWczXbFTUWR_0jQ/view?usp=sharing) -->
+* [Aula 20 - Árvores de decisão](https://drive.google.com/file/d/1Y7FtgZaq5MMWjISg2zWczXbFTUWR_0jQ/view?usp=sharing)
 
 ## Atividades
 
@@ -47,12 +47,14 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [AP1 - Bases (Utilize apenas a designada para seu grupo!)](/./assets/ibm0112_datamining/AP1_Bases.zip)
 * [AP1 - Proposta de soluções](https://drive.google.com/file/d/1FioPBy6Qqub52QmXzfWuYJnD3v-gZxZ6/view?usp=sharing)
 * [AP2 - Registro de grupos](https://drive.google.com/file/d/1VdITxPmgC9wePdZelvYEX605Pr5KXwOt/view?usp=sharing)
+* [LAB 02 - Tarefas práticas (Árvore de Decisão)](https://drive.google.com/file/d/1IvUUNrT7a3vCfVrkDw1jzbtbVyg9wTaK/view?usp=sharing)
 
 ## Dados usados em sala
 * [Dados para a Aula 08](/./assets/ibm0112_datamining/Dados_Aula08.zip)
 * [Dados para a Aulas 09, 10 e 11](/./assets/ibm0112_datamining/Dados_Aula09.zip)
 * [Dados para a Aulas 12 e 13](/./assets/ibm0112_datamining/Dados_Aulas12e13.zip)
 * [Dados para a Aula 18 (Naive Bayes)](/./assets/ibm0112_datamining/Dados_Aula18.zip)
+* [Dados para a Aula 20 (Árvores de decisão)](/./assets/ibm0112_datamining/Dados_Aula20.zip)
 <!-- * [Dados para a Aula 20 (Árvores de decisão)](/./assets/ibm0112_datamining/Dados_Aula20.zip) -->
 
 ## Resultados
