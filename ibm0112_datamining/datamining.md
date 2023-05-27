@@ -24,6 +24,8 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [KNN](/./assets/ibm0112_datamining/06 - KNN.pdf)
 * [Naïve bayes](/./assets/ibm0112_datamining/07 - Naive Bayes.pdf)
 * [Árvores de decisão](/./assets/ibm0112_datamining/08 - Árvores de Decisão.pdf)
+* [Regressões](/./assets/ibm0112_datamining/09 - Regressões.pdf)
+* [Agrupamentos](/./assets/ibm0112_datamining/10 - Agrupamentos.pdf)
 
 ## Códigos para aula
 
@@ -37,6 +39,8 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Aula 16 - KNN](https://drive.google.com/file/d/1ManMJsz5SeJK_5hAX-DZ9M1N16-kf86q/view?usp=sharing)
 * [Aula 18 - Naïve Bayes](https://drive.google.com/file/d/1txLX-GxdGm6Hyi-_LkPfdNFPKdWOjfsD/view?usp=sharing)
 * [Aula 20 - Árvores de decisão](https://drive.google.com/file/d/1Y7FtgZaq5MMWjISg2zWczXbFTUWR_0jQ/view?usp=sharing)
+* [Aula 22 - Regressões](https://drive.google.com/file/d/16pWiBOl4OiVW1rcgYnUwTkDC1buOxQ5o/view?usp=sharing)
+* [Aula 26 - Agrupamentos](https://colab.research.google.com/drive/1T9tiZKr6yUQTYFioL6CAZhimdjNG1uDf?usp=sharing)
 
 ## Atividades
 
@@ -55,11 +59,14 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Dados para a Aulas 12 e 13](/./assets/ibm0112_datamining/Dados_Aulas12e13.zip)
 * [Dados para a Aula 18 (Naive Bayes)](/./assets/ibm0112_datamining/Dados_Aula18.zip)
 * [Dados para a Aula 20 (Árvores de decisão)](/./assets/ibm0112_datamining/Dados_Aula20.zip)
+* [Dados para a Aula 22 (Regressões)](/./assets/ibm0112_datamining/Dados_Aula22.zip)
+* [Dados para a Aula 26 (Agrupamentos)](/./assets/ibm0112_datamining/Dados_Aula26.zip)
 <!-- * [Dados para a Aula 20 (Árvores de decisão)](/./assets/ibm0112_datamining/Dados_Aula20.zip) -->
 
 ## Resultados
 * [LAB 01 - Tarefas práticas - Resultado](/./assets/ibm0112_datamining/Turma8001_S12023_Resultados_Lab01_v1.pdf)
 * [AP1 - Resultado](/./assets/ibm0112_datamining/Turma8001_S12023_Resultados_AP1.pdf)
+* [LAB 02 - Tarefas práticas (Árvore de Decisão) - Resultado](/./assets/ibm0112_datamining/Turma8001_S12023_Resultados_Lab02.pdf)
 
 ---
 
