@@ -43,7 +43,7 @@
 | **16/jun** |            **Semana de AP2**            |
 | **19/jun** |             **ENTREGA AP2**             |
 |   23/jun   |              Sem atividades             |
-| **26/jun** |             **ENTREGA AS **             |
+| **26/jun** |             **ENTREGA AS**              |
 | **30/jun** |            **Semana de AS**             |
 |   03/jul   |              Sem atividades             |
 |   04/jul   |         Encerramento do semestre        |
