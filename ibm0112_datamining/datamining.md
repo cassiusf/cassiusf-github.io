@@ -52,6 +52,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [AP1 - Proposta de soluções](https://drive.google.com/file/d/1FioPBy6Qqub52QmXzfWuYJnD3v-gZxZ6/view?usp=sharing)
 * [AP2 - Registro de grupos](https://drive.google.com/file/d/1VdITxPmgC9wePdZelvYEX605Pr5KXwOt/view?usp=sharing)
 * [LAB 02 - Tarefas práticas (Árvore de Decisão)](https://drive.google.com/file/d/1IvUUNrT7a3vCfVrkDw1jzbtbVyg9wTaK/view?usp=sharing)
+* [AP2 - Questões](https://drive.google.com/file/d/1dUDoP1I9XRBIuepqGzeUm1DVKTfTFvK4/view?usp=sharing)
 
 ## Dados usados em sala
 * [Dados para a Aula 08](/./assets/ibm0112_datamining/Dados_Aula08.zip)
