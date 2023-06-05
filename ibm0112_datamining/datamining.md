@@ -50,8 +50,9 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [AP1 - Questões](https://drive.google.com/file/d/1nbsDL0xjMPAfQb5X__z8-SPOObHoGAPB/view?usp=sharing)
 * [AP1 - Bases (Utilize apenas a designada para seu grupo!)](/./assets/ibm0112_datamining/AP1_Bases.zip)
 * [AP1 - Proposta de soluções](https://drive.google.com/file/d/1FioPBy6Qqub52QmXzfWuYJnD3v-gZxZ6/view?usp=sharing)
-* [AP2 - Registro de grupos](https://drive.google.com/file/d/1VdITxPmgC9wePdZelvYEX605Pr5KXwOt/view?usp=sharing)
 * [LAB 02 - Tarefas práticas (Árvore de Decisão)](https://drive.google.com/file/d/1IvUUNrT7a3vCfVrkDw1jzbtbVyg9wTaK/view?usp=sharing)
+* [LAB 03 - Tarefas práticas (Modelagem)](https://drive.google.com/file/d/1zOuNsV9BhIhTCuoYP8kPGvvP6XTaYxrr/view?usp=sharing)
+* [AP2 - Registro de grupos](https://drive.google.com/file/d/1VdITxPmgC9wePdZelvYEX605Pr5KXwOt/view?usp=sharing)
 * [AP2 - Questões](https://drive.google.com/file/d/1dUDoP1I9XRBIuepqGzeUm1DVKTfTFvK4/view?usp=sharing)
 
 ## Dados usados em sala
