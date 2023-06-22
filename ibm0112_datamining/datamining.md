@@ -69,6 +69,8 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [LAB 01 - Tarefas práticas - Resultado](/./assets/ibm0112_datamining/Turma8001_S12023_Resultados_Lab01_v1.pdf)
 * [AP1 - Resultado](/./assets/ibm0112_datamining/Turma8001_S12023_Resultados_AP1.pdf)
 * [LAB 02 - Tarefas práticas (Árvore de Decisão) - Resultado](/./assets/ibm0112_datamining/Turma8001_S12023_Resultados_Lab02.pdf)
+* [LAB 03 - Modelagem - Resultado](/./assets/ibm0112_datamining/Turma8001_S12023_Resultados_Lab03.pdf)
+* [AP2 - Resultado](/./assets/ibm0112_datamining/Turma8001_S12023_Resultados_AP2.pdf)
 
 ---
 
