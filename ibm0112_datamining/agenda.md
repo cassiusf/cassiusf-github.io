@@ -4,49 +4,49 @@
 
 |  **Data**  |           **Tópico planejado**          |
 |:----------:|:---------------------------------------:|
-|   13/fev   |          Apresentação do curso          |
-|   17/fev   |            Revisão de Python            |
-|   24/fev   |            Revisão de Python            |
-| **20/fev** |          **FERIADO - CARNAVAL**         |
-|   27/fev   |            Revisão de Python            |
-|   03/mar   |            Revisão de Python            |
-|   06/mar   |            Revisão de Python            |
-|   10/mar   |            Revisão de Python            |
-|   13/mar   |        Laboratório de informática       |
-|   17/mar   |     O processo de mineração de dados    |
-|   20/mar   |     Extração e transformação de dados   |
-|   24/mar   |     Extração e transformação de dados   |
-|   27/mar   |     Extração e transformação de dados   |
-|   31/mar   |     Extração e transformação de dados   |
-|   03/abr   |          Visualizaçao de dados          |
-| **07/abr** |     **FERIADO - SEXTA-FEIRA SANTA**     |
-|   10/abr   |          Visualização de dados          |
-| **14/abr** |            **Semana de AP1**            |
-| **17/abr** |             **ENTREGA AP1**             |
-| **21/abr** |        **FERIADO - TIRADENTES**         |
-|   24/abr   |          Vista de prova (AP1)           |
-|   28/abr   |          K-vizinhos próximos            |
-| **01/mai** |      **FERIADO - DIA DO TRABALHO**      |
-|   05/mai   |          Métricas e modelagem           |
-|   08/mai   |          K-vizinhos próximos            |
-|   12/mai   |               Naive Bayes               |
-|   15/mai   |       Regressão linear e logística      |
-|   19/mai   |       Regressão linear e logística      |
-|   22/mai   |            Árvores de decisão           |
-|   26/mai   |            Árvores de decisão           |
-|   29/mai   |               Agrupamentos              |
-|   02/jun   |               Agrupamentos              |
-|   05/jun   |        Laboratório de informática       |
-| **08/jun** |        **FERIADO CORPUS CHRISTI**       |
-| **09/jun** |        **RECESSO CORPUS CHRISTI**       |
-|   12/jun   |        Laboratório de informática       |
-| **16/jun** |            **Semana de AP2**            |
-| **19/jun** |             **ENTREGA AP2**             |
-|   23/jun   |              Sem atividades             |
-| **26/jun** |             **ENTREGA AS**              |
-| **30/jun** |            **Semana de AS**             |
-|   03/jul   |              Sem atividades             |
-|   04/jul   |         Encerramento do semestre        |
+|   04/ago   |          Apresentação do curso          |
+|   07/ago   |            Revisão de Python            |
+|   11/ago   |            Revisão de Python            |
+|   14/ago   |            Revisão de Python            |
+|   18/ago   |            Revisão de Python            |
+|   21/ago   |        Laboratório de informática       |
+|   25/ago   |     O processo de mineração de dados    |
+|   27/ago   |     Extração e transformação de dados   |
+|   01/set   |     Extração e transformação de dados   |
+|   04/set   |     Extração e transformação de dados   |
+| **08/set** |   **RECESSO INDEPENDÊNCIA DO BRASIL**   |
+|   11/set   |          Visualizaçao de dados          |
+|   15/set   |          Visualizaçao de dados          |
+|   18/set   |          Visualizaçao de dados          |
+|   25/set   |        Laboratório de informática       |
+|   29/set   |            **Semana de AP1**            |
+|   02/out   |            **Semana de AP1**            |
+|   06/out   |          Métricas e modelagem           |
+|   09/out   |          Métricas e modelagem           |
+| **13/out** |**RECESSO N.S. APARECIDA/DIA PROFESSOR** |
+|   16/out   |          K-vizinhos próximos            |
+|   20/out   |          K-vizinhos próximos            |
+|   23/out   |               Naive Bayes               |
+|   27/out   |               Naive Bayes               |
+|   30/out   |       Regressão linear e logística      |
+| **03/nov** |       **RECESSO DIA DE FINADOS**        |
+|   06/nov   |       Regressão linear e logística      |
+|   10/nov   |            Árvores de decisão           |
+|   13/nov   |            Árvores de decisão           |
+|   17/nov   |               Agrupamentos              |
+|   20/nov   |        Laboratório de informática       |
+| **24/nov** |            **Semana de AP2**            |
+| **27/nov** |            **Semana de AP2**            |
+| **01/dez** |            **Semana de AS**             |
+| **04/dez** |            **Semana de AS**             |
+|   08/dez   |         Encerramento do semestre        |
+<!-- |   16/jun   |            **Semana de AP2**            | -->
+<!-- |   19/jun   |             **ENTREGA AP2**             | -->
+<!-- |   23/jun   |              Sem atividades             | -->
+<!-- |   26/jun   |             **ENTREGA AS**              | -->
+<!-- |   30/jun   |            **Semana de AS**             | -->
+<!-- |   03/jul   |              Sem atividades             | -->
+<!-- |   04/jul   |         Encerramento do semestre        | -->
 
 ---
 
