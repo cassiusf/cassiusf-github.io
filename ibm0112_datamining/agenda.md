@@ -9,9 +9,9 @@
 |   11/ago   |            Revisão de Python            |
 |   14/ago   |            Revisão de Python            |
 |   18/ago   |            Revisão de Python            |
-|   21/ago   |        Laboratório de informática       |
-|   25/ago   |     O processo de mineração de dados    |
-|   27/ago   |     Extração e transformação de dados   |
+|   21/ago   |            Revisão de Python            |
+|   25/ago   |            Revisão de Python            |
+|   28/ago   |        Laboratório de informática       |
 |   01/set   |     Extração e transformação de dados   |
 |   04/set   |     Extração e transformação de dados   |
 | **08/set** |   **RECESSO INDEPENDÊNCIA DO BRASIL**   |
@@ -21,7 +21,7 @@
 |   25/set   |        Laboratório de informática       |
 |   29/set   |            **Semana de AP1**            |
 |   02/out   |            **Semana de AP1**            |
-|   06/out   |          Métricas e modelagem           |
+|   06/out   |     O processo de mineração de dados    |
 |   09/out   |          Métricas e modelagem           |
 | **13/out** |**RECESSO N.S. APARECIDA/DIA PROFESSOR** |
 |   16/out   |          K-vizinhos próximos            |
