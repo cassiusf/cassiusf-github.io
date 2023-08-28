@@ -45,7 +45,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 ## Atividades
 
-<!-- * [LAB 01 - Tarefas práticas](https://drive.google.com/file/d/1rgBgFF_RHh8JUyXkblFyelZGkNAis1Ix/view?usp=sharing) -->
+* [LAB 01 - Tarefas práticas](https://drive.google.com/file/d/1rgBgFF_RHh8JUyXkblFyelZGkNAis1Ix/view?usp=sharing)
 <!-- * [LAB 01 - Tarefas práticas (proposta de soluções)](https://drive.google.com/file/d/1-kpZgFbn4jx1UxBs0FB2AEOGvcnEdYej/view?usp=sharing) -->
 <!-- * [AP1 - Registro de grupos (novos grupos apenas no dia da entrega)](https://drive.google.com/file/d/15iVa1RwARtAarW_adclbiNbt8T9MoBpq/view?usp=sharing) -->
 <!-- * [AP1 - Questões](https://drive.google.com/file/d/1nbsDL0xjMPAfQb5X__z8-SPOObHoGAPB/view?usp=sharing) -->
