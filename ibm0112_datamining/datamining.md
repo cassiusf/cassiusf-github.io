@@ -17,9 +17,9 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 * [Apresentação da disciplina](/./assets/ibm0112_datamining/00 - Apresentação.pdf)
 * [Introdução ao Python](/./assets/ibm0112_datamining/01 - Introduçao ao Python.pdf)
-<!-- * [O processo de mineraçao de dados](/./assets/ibm0112_datamining/02 - O processo de mineraçao de dados.pdf) -->
 <!-- * [Visualização de dados](/./assets/ibm0112_datamining/03 - Visualização de dados.pdf) -->
 <!-- * [Tipos de visualizações de dados](/./assets/ibm0112_datamining/04 - Tipos de visualizações de dados.pdf) -->
+<!-- * [O processo de mineraçao de dados](/./assets/ibm0112_datamining/02 - O processo de mineraçao de dados.pdf) -->
 <!-- * [Avaliação de modelos](/./assets/ibm0112_datamining/05 - Avaliação de modelos.pdf) -->
 <!-- * [KNN](/./assets/ibm0112_datamining/06 - KNN.pdf) -->
 <!-- * [Naïve bayes](/./assets/ibm0112_datamining/07 - Naive Bayes.pdf) -->
@@ -32,7 +32,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Aula 00 - Quebrando o gelo](https://drive.google.com/file/d/1ucfSOn7Su8uJPRAP4bqN7IKdRuJmwiVP/view?usp=sharing)
 * [Aula 01 - Avaliando o conhecimento de Python](https://drive.google.com/file/d/1F0OPWg6samjvcTPvBjO6q333YXwCLulD/view?usp=sharing)
 * [Aulas 01 a 06 - Introdução à linguagem Python](https://drive.google.com/file/d/1X3bCtwIsB5eb4u2IBEDe-0l9pjsT673B/view?usp=sharing)
-<!-- * [Aula 07 - Importação de módulos externos (bibliotecas) com linguagem Python](https://drive.google.com/file/d/1Dyk5c18dz1EJeTG_zb7APiR3S59-g6N4/view?usp=sharing) -->
+* [Aula 07 - Importação de módulos externos (bibliotecas) com linguagem Python](https://drive.google.com/file/d/1Dyk5c18dz1EJeTG_zb7APiR3S59-g6N4/view?usp=sharing)
 <!-- * [Aula 08 - A biblioteca Pandas e extração de dados com linguagem Python](https://drive.google.com/file/d/1-EjbsfgRCpJx33sJ0-h7IszwCh1i0nNw/view?usp=sharing) -->
 <!-- * [Aula 09 - Manipulando dados com a biblioteca Pandas](https://drive.google.com/file/d/1fvXb9aUnaNJu_f7NvQa9EZNNtB11onKM/view?usp=sharing) -->
 <!-- * [Aulas 10 e 11 - Visualizando dados (Distribuições)](https://drive.google.com/file/d/1SMekUk7PdPU9GA76Yo3fOqscemwpWAa5/view?usp=sharing) -->
