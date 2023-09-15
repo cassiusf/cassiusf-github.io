@@ -34,7 +34,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Aulas 01 a 06 - Introdução à linguagem Python](https://drive.google.com/file/d/1X3bCtwIsB5eb4u2IBEDe-0l9pjsT673B/view?usp=sharing)
 * [Aula 07 - Importação de módulos externos (bibliotecas) com linguagem Python](https://drive.google.com/file/d/1Dyk5c18dz1EJeTG_zb7APiR3S59-g6N4/view?usp=sharing)
 * [Aula 08 - A biblioteca Pandas e extração de dados com linguagem Python](https://drive.google.com/file/d/1-EjbsfgRCpJx33sJ0-h7IszwCh1i0nNw/view?usp=sharing)
-<!-- * [Aula 09 - Manipulando dados com a biblioteca Pandas](https://drive.google.com/file/d/1fvXb9aUnaNJu_f7NvQa9EZNNtB11onKM/view?usp=sharing) -->
+* [Aula 09 - Manipulando dados com a biblioteca Pandas](https://drive.google.com/file/d/1fvXb9aUnaNJu_f7NvQa9EZNNtB11onKM/view?usp=sharing)
 <!-- * [Aulas 10 e 11 - Visualizando dados (Distribuições)](https://drive.google.com/file/d/1SMekUk7PdPU9GA76Yo3fOqscemwpWAa5/view?usp=sharing) -->
 <!-- * [Aulas 12 e 13 - Visualizando dados em Python](https://drive.google.com/file/d/15Vu65XXkNmzGE34FpJiBP8VHod_QmwRq/view?usp=sharing) -->
 <!-- * [Aula 16 - KNN](https://drive.google.com/file/d/1ManMJsz5SeJK_5hAX-DZ9M1N16-kf86q/view?usp=sharing) -->
@@ -58,7 +58,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 ## Dados usados em sala
 * [Dados para a Aula 08](/./assets/ibm0112_datamining/Dados_Aula08.zip)
-<!-- * [Dados para a Aulas 09, 10 e 11](/./assets/ibm0112_datamining/Dados_Aula09.zip) -->
+* [Dados para a Aulas 09, 10 e 11](/./assets/ibm0112_datamining/Dados_Aula09.zip)
 <!-- * [Dados para a Aulas 12 e 13](/./assets/ibm0112_datamining/Dados_Aulas12e13.zip) -->
 <!-- * [Dados para a Aula 18 (Naive Bayes)](/./assets/ibm0112_datamining/Dados_Aula18.zip) -->
 <!-- * [Dados para a Aula 20 (Árvores de decisão)](/./assets/ibm0112_datamining/Dados_Aula20.zip) -->
