@@ -39,7 +39,9 @@
 | **27/nov** |            **Semana de AP2**            |
 | **01/dez** |            **Semana de AS**             |
 | **04/dez** |            **Semana de AS**             |
-|   08/dez   |         Encerramento do semestre        |<!-- |            |                        | -->
+|   08/dez   |         Encerramento do semestre        |
+
+<!-- |            |                        | -->
 <!-- |            |                        | -->
 <!-- |            |                        | -->
 <!-- |            |                        | -->
