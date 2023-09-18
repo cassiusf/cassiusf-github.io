@@ -18,29 +18,28 @@
 |   11/set   |          Visualizaçao de dados          |
 |   15/set   |          Visualizaçao de dados          |
 |   18/set   |          Visualizaçao de dados          |
-|   25/set   |        Laboratório de informática       |
+|   25/set   |            Aula de exercícios           |
 |   29/set   |            **Semana de AP1**            |
-|   02/out   |            **Semana de AP1**            |
+|   02/out   |                 **AP1**                 |
 |   06/out   |     O processo de mineração de dados    |
 |   09/out   |          Métricas e modelagem           |
 | **13/out** |**RECESSO N.S. APARECIDA/DIA PROFESSOR** |
 |   16/out   |          K-vizinhos próximos            |
 |   20/out   |          K-vizinhos próximos            |
-|   23/out   |               Naive Bayes               |
-|   27/out   |               Naive Bayes               |
-|   30/out   |       Regressão linear e logística      |
+|   23/out   |            Árvores de decisão           |
+|   27/out   |            Árvores de decisão           |
+|   30/out   |        Laboratório de informática       |
 | **03/nov** |       **RECESSO DIA DE FINADOS**        |
 |   06/nov   |       Regressão linear e logística      |
-|   10/nov   |            Árvores de decisão           |
-|   13/nov   |            Árvores de decisão           |
+|   10/nov   |       Regressão linear e logística      |
+|   13/nov   |               Naive Bayes               |
 |   17/nov   |               Agrupamentos              |
-|   20/nov   |        Laboratório de informática       |
+|   20/nov   |               Agrupamentos              |
 | **24/nov** |            **Semana de AP2**            |
 | **27/nov** |            **Semana de AP2**            |
 | **01/dez** |            **Semana de AS**             |
 | **04/dez** |            **Semana de AS**             |
-|   08/dez   |         Encerramento do semestre        |
-<!-- |            |                        | -->
+|   08/dez   |         Encerramento do semestre        |<!-- |            |                        | -->
 <!-- |            |                        | -->
 <!-- |            |                        | -->
 <!-- |            |                        | -->
