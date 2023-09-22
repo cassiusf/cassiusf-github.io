@@ -36,7 +36,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Aula 08 - A biblioteca Pandas e extração de dados com linguagem Python](https://drive.google.com/file/d/1-EjbsfgRCpJx33sJ0-h7IszwCh1i0nNw/view?usp=sharing)
 * [Aula 09 - Manipulando dados com a biblioteca Pandas](https://drive.google.com/file/d/1fvXb9aUnaNJu_f7NvQa9EZNNtB11onKM/view?usp=sharing)
 * [Aulas 10 e 11 - Visualizando dados (Distribuições)](https://drive.google.com/file/d/1SMekUk7PdPU9GA76Yo3fOqscemwpWAa5/view?usp=sharing)
-<!-- * [Aulas 12 e 13 - Visualizando dados em Python](https://drive.google.com/file/d/15Vu65XXkNmzGE34FpJiBP8VHod_QmwRq/view?usp=sharing) -->
+* [Aulas 12 e 13 - Visualizando dados em Python](https://drive.google.com/file/d/15Vu65XXkNmzGE34FpJiBP8VHod_QmwRq/view?usp=sharing)
 <!-- * [Aula 16 - KNN](https://drive.google.com/file/d/1ManMJsz5SeJK_5hAX-DZ9M1N16-kf86q/view?usp=sharing) -->
 <!-- * [Aula 18 - Naïve Bayes](https://drive.google.com/file/d/1txLX-GxdGm6Hyi-_LkPfdNFPKdWOjfsD/view?usp=sharing) -->
 <!-- * [Aula 20 - Árvores de decisão](https://drive.google.com/file/d/1Y7FtgZaq5MMWjISg2zWczXbFTUWR_0jQ/view?usp=sharing) -->
@@ -47,7 +47,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 * [LAB 01 - Tarefas práticas](https://drive.google.com/file/d/1rgBgFF_RHh8JUyXkblFyelZGkNAis1Ix/view?usp=sharing)
 <!-- * [LAB 01 - Tarefas práticas (proposta de soluções)](https://drive.google.com/file/d/1-kpZgFbn4jx1UxBs0FB2AEOGvcnEdYej/view?usp=sharing) -->
-<!-- * [AP1 - Registro de grupos (novos grupos apenas no dia da entrega)](https://drive.google.com/file/d/15iVa1RwARtAarW_adclbiNbt8T9MoBpq/view?usp=sharing) -->
+* [AP1 - Registro de grupos](https://drive.google.com/file/d/15iVa1RwARtAarW_adclbiNbt8T9MoBpq/view?usp=sharing)
 <!-- * [AP1 - Questões](https://drive.google.com/file/d/1nbsDL0xjMPAfQb5X__z8-SPOObHoGAPB/view?usp=sharing) -->
 <!-- * [AP1 - Bases (Utilize apenas a designada para seu grupo!)](/./assets/ibm0112_datamining/AP1_Bases.zip) -->
 <!-- * [AP1 - Proposta de soluções](https://drive.google.com/file/d/1FioPBy6Qqub52QmXzfWuYJnD3v-gZxZ6/view?usp=sharing) -->
@@ -59,7 +59,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 ## Dados usados em sala
 * [Dados para a Aula 08](/./assets/ibm0112_datamining/Dados_Aula08.zip)
 * [Dados para a Aulas 09, 10 e 11](/./assets/ibm0112_datamining/Dados_Aula09.zip)
-<!-- * [Dados para a Aulas 12 e 13](/./assets/ibm0112_datamining/Dados_Aulas12e13.zip) -->
+* [Dados para a Aulas 12 e 13](/./assets/ibm0112_datamining/Dados_Aulas12e13.zip)
 <!-- * [Dados para a Aula 18 (Naive Bayes)](/./assets/ibm0112_datamining/Dados_Aula18.zip) -->
 <!-- * [Dados para a Aula 20 (Árvores de decisão)](/./assets/ibm0112_datamining/Dados_Aula20.zip) -->
 <!-- * [Dados para a Aula 22 (Regressões)](/./assets/ibm0112_datamining/Dados_Aula22.zip) -->
