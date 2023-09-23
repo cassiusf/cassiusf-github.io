@@ -47,8 +47,10 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 * [LAB 01 - Tarefas práticas](https://drive.google.com/file/d/1rgBgFF_RHh8JUyXkblFyelZGkNAis1Ix/view?usp=sharing)
 <!-- * [LAB 01 - Tarefas práticas (proposta de soluções)](https://drive.google.com/file/d/1-kpZgFbn4jx1UxBs0FB2AEOGvcnEdYej/view?usp=sharing) -->
+<!-- * [Exercícios preparação AP1](https://drive.google.com/file/d/1ybE2LTqUp55Z8NR48vKgTECYssc5Gzkj/view?usp=sharing) -->
+<!-- * [Exercícios preparação AP1 (proposta de soluções)](https://drive.google.com/file/d/1KJ-TvF2BP0QvvllM2B8fFWlaLvUh9Jvs/view?usp=sharing) -->
 * [AP1 - Registro de grupos](https://drive.google.com/file/d/15iVa1RwARtAarW_adclbiNbt8T9MoBpq/view?usp=sharing)
-<!-- * [AP1 - Questões](https://drive.google.com/file/d/1nbsDL0xjMPAfQb5X__z8-SPOObHoGAPB/view?usp=sharing) -->
+<!-- * [AP1 - Questões](https://drive.google.com/file/d/1sMJRLzOp16XTvaeZK8JvIP0dzsuEqllo/view?usp=sharing) -->
 <!-- * [AP1 - Bases (Utilize apenas a designada para seu grupo!)](/./assets/ibm0112_datamining/AP1_Bases.zip) -->
 <!-- * [AP1 - Proposta de soluções](https://drive.google.com/file/d/1FioPBy6Qqub52QmXzfWuYJnD3v-gZxZ6/view?usp=sharing) -->
 <!-- * [LAB 02 - Tarefas práticas (Árvore de Decisão)](https://drive.google.com/file/d/1IvUUNrT7a3vCfVrkDw1jzbtbVyg9wTaK/view?usp=sharing) -->
@@ -60,6 +62,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Dados para a Aula 08](/./assets/ibm0112_datamining/Dados_Aula08.zip)
 * [Dados para a Aulas 09, 10 e 11](/./assets/ibm0112_datamining/Dados_Aula09.zip)
 * [Dados para a Aulas 12 e 13](/./assets/ibm0112_datamining/Dados_Aulas12e13.zip)
+<!-- * [Dados para a Aula exercícios AP1 (Credit Dataset)](/./assets/ibm0112_datamining/Dados_Aula_Exercícicios_AP1.zip) -->
 <!-- * [Dados para a Aula 18 (Naive Bayes)](/./assets/ibm0112_datamining/Dados_Aula18.zip) -->
 <!-- * [Dados para a Aula 20 (Árvores de decisão)](/./assets/ibm0112_datamining/Dados_Aula20.zip) -->
 <!-- * [Dados para a Aula 22 (Regressões)](/./assets/ibm0112_datamining/Dados_Aula22.zip) -->
@@ -67,7 +70,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 <!-- * [TEXTO](LINK) -->
 
 ## Resultados
-<!-- * [LAB 01 - Tarefas práticas - Resultado](/./assets/ibm0112_datamining/Turma8002_S12023_Resultados_Lab01.pdf) -->
+* [LAB 01 - Tarefas práticas - Resultado](/./assets/ibm0112_datamining/Turma8002_S22023_Resultados_Lab01.pdf)
 <!-- * [AP1 - Resultado](/./assets/ibm0112_datamining/Turma8002_S12023_Resultados_AP1.pdf) -->
 <!-- * [LAB 02 - Tarefas práticas (Árvore de Decisão) - Resultado](/./assets/ibm0112_datamining/Turma8002_S12023_Resultados_Lab02.pdf) -->
 <!-- * [LAB 03 - Modelagem - Resultado](/./assets/ibm0112_datamining/Turma8002_S12023_Resultados_Lab03.pdf) -->
