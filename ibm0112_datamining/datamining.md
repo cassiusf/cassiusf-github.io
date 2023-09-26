@@ -48,10 +48,10 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [LAB 01 - Tarefas práticas](https://drive.google.com/file/d/1rgBgFF_RHh8JUyXkblFyelZGkNAis1Ix/view?usp=sharing)
 <!-- * [LAB 01 - Tarefas práticas (proposta de soluções)](https://drive.google.com/file/d/1-kpZgFbn4jx1UxBs0FB2AEOGvcnEdYej/view?usp=sharing) -->
 * [Exercícios preparação AP1](https://drive.google.com/file/d/1ybE2LTqUp55Z8NR48vKgTECYssc5Gzkj/view?usp=sharing)
-<!-- * [Exercícios preparação AP1 (proposta de soluções)](https://drive.google.com/file/d/1KJ-TvF2BP0QvvllM2B8fFWlaLvUh9Jvs/view?usp=sharing) -->
+* [Exercícios preparação AP1 (proposta de soluções)](https://drive.google.com/file/d/1KJ-TvF2BP0QvvllM2B8fFWlaLvUh9Jvs/view?usp=sharing)
 * [AP1 - Registro de grupos](https://drive.google.com/file/d/15iVa1RwARtAarW_adclbiNbt8T9MoBpq/view?usp=sharing)
-<!-- * [AP1 - Questões](https://drive.google.com/file/d/1sMJRLzOp16XTvaeZK8JvIP0dzsuEqllo/view?usp=sharing) -->
-<!-- * [AP1 - Bases (Utilize apenas a designada para seu grupo!)](/./assets/ibm0112_datamining/AP1_Bases.zip) -->
+* [AP1 - Questões](https://drive.google.com/file/d/1sMJRLzOp16XTvaeZK8JvIP0dzsuEqllo/view?usp=sharing)
+* [AP1 - Bases (Utilize apenas a designada para seu grupo!)](/./assets/ibm0112_datamining/AP1_Bases.zip)
 <!-- * [AP1 - Proposta de soluções](https://drive.google.com/file/d/1FioPBy6Qqub52QmXzfWuYJnD3v-gZxZ6/view?usp=sharing) -->
 <!-- * [LAB 02 - Tarefas práticas (Árvore de Decisão)](https://drive.google.com/file/d/1IvUUNrT7a3vCfVrkDw1jzbtbVyg9wTaK/view?usp=sharing) -->
 <!-- * [LAB 03 - Tarefas práticas (Modelagem)](https://drive.google.com/file/d/1zOuNsV9BhIhTCuoYP8kPGvvP6XTaYxrr/view?usp=sharing) -->
