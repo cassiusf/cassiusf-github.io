@@ -19,7 +19,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Introdução ao Python](/./assets/ibm0112_datamining/01 - Introduçao ao Python.pdf)
 <!-- * [Visualização de dados](/./assets/ibm0112_datamining/03 - Visualização de dados.pdf) -->
 <!-- * [Tipos de visualizações de dados](/./assets/ibm0112_datamining/04 - Tipos de visualizações de dados.pdf) -->
-<!-- * [O processo de mineraçao de dados](/./assets/ibm0112_datamining/02 - O processo de mineraçao de dados.pdf) -->
+* [O processo de mineraçao de dados](/./assets/ibm0112_datamining/02 - O processo de mineraçao de dados.pdf)
 <!-- * [Avaliação de modelos](/./assets/ibm0112_datamining/05 - Avaliação de modelos.pdf) -->
 <!-- * [KNN](/./assets/ibm0112_datamining/06 - KNN.pdf) -->
 <!-- * [Naïve bayes](/./assets/ibm0112_datamining/07 - Naive Bayes.pdf) -->
@@ -52,7 +52,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [AP1 - Registro de grupos](https://drive.google.com/file/d/15iVa1RwARtAarW_adclbiNbt8T9MoBpq/view?usp=sharing)
 * [AP1 - Questões](https://drive.google.com/file/d/1sMJRLzOp16XTvaeZK8JvIP0dzsuEqllo/view?usp=sharing)
 * [AP1 - Bases (Utilize apenas a designada para seu grupo!)](/./assets/ibm0112_datamining/AP1_Bases.zip)
-<!-- * [AP1 - Proposta de soluções](https://drive.google.com/file/d/1FioPBy6Qqub52QmXzfWuYJnD3v-gZxZ6/view?usp=sharing) -->
+* [AP1 - Proposta de soluções](https://drive.google.com/file/d/1f5gnkUj9UdbN0Mb-BAxZvo9BKGqknlDU/view?usp=sharing)
 <!-- * [LAB 02 - Tarefas práticas (Árvore de Decisão)](https://drive.google.com/file/d/1IvUUNrT7a3vCfVrkDw1jzbtbVyg9wTaK/view?usp=sharing) -->
 <!-- * [LAB 03 - Tarefas práticas (Modelagem)](https://drive.google.com/file/d/1zOuNsV9BhIhTCuoYP8kPGvvP6XTaYxrr/view?usp=sharing) -->
 <!-- * [AP2 - Registro de grupos](https://drive.google.com/file/d/1VdITxPmgC9wePdZelvYEX605Pr5KXwOt/view?usp=sharing) -->
@@ -71,7 +71,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 
 ## Resultados
 * [LAB 01 - Tarefas práticas - Resultado](/./assets/ibm0112_datamining/Turma8002_S22023_Resultados_Lab01.pdf)
-<!-- * [AP1 - Resultado](/./assets/ibm0112_datamining/Turma8002_S12023_Resultados_AP1.pdf) -->
+* [AP1 - Resultado](/./assets/ibm0112_datamining/Turma8002_S12023_Resultados_AP1.pdf)
 <!-- * [LAB 02 - Tarefas práticas (Árvore de Decisão) - Resultado](/./assets/ibm0112_datamining/Turma8002_S12023_Resultados_Lab02.pdf) -->
 <!-- * [LAB 03 - Modelagem - Resultado](/./assets/ibm0112_datamining/Turma8002_S12023_Resultados_Lab03.pdf) -->
 <!-- * [AP2 - Resultado](/./assets/ibm0112_datamining/Turma8002_S12023_Resultados_AP2.pdf) -->
