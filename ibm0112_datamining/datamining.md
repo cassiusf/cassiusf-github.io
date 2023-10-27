@@ -37,7 +37,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Aula 09 - Manipulando dados com a biblioteca Pandas](https://drive.google.com/file/d/1fvXb9aUnaNJu_f7NvQa9EZNNtB11onKM/view?usp=sharing)
 * [Aulas 10 e 11 - Visualizando dados (Distribuições)](https://drive.google.com/file/d/1SMekUk7PdPU9GA76Yo3fOqscemwpWAa5/view?usp=sharing)
 * [Aulas 12 e 13 - Visualizando dados em Python](https://drive.google.com/file/d/15Vu65XXkNmzGE34FpJiBP8VHod_QmwRq/view?usp=sharing)
-<!-- * [Aula 16 - KNN](https://drive.google.com/file/d/1ManMJsz5SeJK_5hAX-DZ9M1N16-kf86q/view?usp=sharing) -->
+* [Aula 16 - KNN](https://drive.google.com/file/d/1ManMJsz5SeJK_5hAX-DZ9M1N16-kf86q/view?usp=sharing)
 <!-- * [Aula 18 - Naïve Bayes](https://drive.google.com/file/d/1txLX-GxdGm6Hyi-_LkPfdNFPKdWOjfsD/view?usp=sharing) -->
 <!-- * [Aula 20 - Árvores de decisão](https://drive.google.com/file/d/1Y7FtgZaq5MMWjISg2zWczXbFTUWR_0jQ/view?usp=sharing) -->
 <!-- * [Aula 22 - Regressões](https://drive.google.com/file/d/16pWiBOl4OiVW1rcgYnUwTkDC1buOxQ5o/view?usp=sharing) -->
