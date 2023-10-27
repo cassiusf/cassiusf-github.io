@@ -28,9 +28,9 @@
 |   20/out   |          K-vizinhos próximos            |
 |   23/out   |            Árvores de decisão           |
 |   27/out   |            Árvores de decisão           |
-|   30/out   |        Laboratório de informática       |
+|   30/out   |            Árvores de decisão           |
 | **03/nov** |       **RECESSO DIA DE FINADOS**        |
-|   06/nov   |       Regressão linear e logística      |
+|   06/nov   |        Laboratório de informática       |
 |   10/nov   |       Regressão linear e logística      |
 |   13/nov   |               Naive Bayes               |
 |   17/nov   |               Agrupamentos              |
