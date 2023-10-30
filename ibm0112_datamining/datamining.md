@@ -39,7 +39,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Aulas 12 e 13 - Visualizando dados em Python](https://drive.google.com/file/d/15Vu65XXkNmzGE34FpJiBP8VHod_QmwRq/view?usp=sharing)
 * [Aula 16 - KNN](https://drive.google.com/file/d/1ManMJsz5SeJK_5hAX-DZ9M1N16-kf86q/view?usp=sharing)
 <!-- * [Aula 18 - Naïve Bayes](https://drive.google.com/file/d/1txLX-GxdGm6Hyi-_LkPfdNFPKdWOjfsD/view?usp=sharing) -->
-<!-- * [Aula 20 - Árvores de decisão](https://drive.google.com/file/d/1Y7FtgZaq5MMWjISg2zWczXbFTUWR_0jQ/view?usp=sharing) -->
+* [Aula 20 - Árvores de decisão](https://drive.google.com/file/d/1Y7FtgZaq5MMWjISg2zWczXbFTUWR_0jQ/view?usp=sharing)
 <!-- * [Aula 22 - Regressões](https://drive.google.com/file/d/16pWiBOl4OiVW1rcgYnUwTkDC1buOxQ5o/view?usp=sharing) -->
 <!-- * [Aula 26 - Agrupamentos](https://colab.research.google.com/drive/1T9tiZKr6yUQTYFioL6CAZhimdjNG1uDf?usp=sharing) -->
 
@@ -64,7 +64,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Dados para a Aulas 12 e 13](/./assets/ibm0112_datamining/Dados_Aulas12e13.zip)
 * [Dados para a Aula exercícios AP1 (Credit Dataset)](/./assets/ibm0112_datamining/Dados_Aula_Exercícicios_AP1.zip)
 <!-- * [Dados para a Aula 18 (Naive Bayes)](/./assets/ibm0112_datamining/Dados_Aula18.zip) -->
-<!-- * [Dados para a Aula 20 (Árvores de decisão)](/./assets/ibm0112_datamining/Dados_Aula20.zip) -->
+* [Dados para a Aula 20 (Árvores de decisão)](/./assets/ibm0112_datamining/Dados_Aula20.zip)
 <!-- * [Dados para a Aula 22 (Regressões)](/./assets/ibm0112_datamining/Dados_Aula22.zip) -->
 <!-- * [Dados para a Aula 26 (Agrupamentos)](/./assets/ibm0112_datamining/Dados_Aula26.zip) -->
 <!-- * [TEXTO](LINK) -->
