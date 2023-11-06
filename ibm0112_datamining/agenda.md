@@ -34,8 +34,8 @@
 |   10/nov   |       Regressão linear e logística      |
 |   13/nov   |               Agrupamentos              |
 |   17/nov   |            **Semana de AP2**            |
-|   20/nov   |       **FERIADO CONSCIÊNCIA NEGRA**     |
-| **24/nov** |          **NÃO HAVERÁ AULAS**           |
+|   20/nov   |  **FERIADO DIA DA CONSCIÊNCIA NEGRA**   |
+| **24/nov** | **NÃO HAVERÁ AULAS - VESTIBULAR IBMEC** |
 | **27/nov** |            **Semana de AP2**            |
 | **01/dez** |            **Semana de AS**             |
 | **04/dez** |            **Semana de AS**             |
