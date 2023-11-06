@@ -32,10 +32,10 @@
 | **03/nov** |       **RECESSO DIA DE FINADOS**        |
 |   06/nov   |        Laboratório de informática       |
 |   10/nov   |       Regressão linear e logística      |
-|   13/nov   |               Naive Bayes               |
-|   17/nov   |               Agrupamentos              |
-|   20/nov   |               Agrupamentos              |
-| **24/nov** |            **Semana de AP2**            |
+|   13/nov   |               Agrupamentos              |
+|   17/nov   |            **Semana de AP2**            |
+|   20/nov   |       **FERIADO CONSCIÊNCIA NEGRA**     |
+| **24/nov** |          **NÃO HAVERÁ AULAS**           |
 | **27/nov** |            **Semana de AP2**            |
 | **01/dez** |            **Semana de AS**             |
 | **04/dez** |            **Semana de AS**             |
