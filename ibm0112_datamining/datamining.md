@@ -53,7 +53,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [AP1 - Questões](https://drive.google.com/file/d/1sMJRLzOp16XTvaeZK8JvIP0dzsuEqllo/view?usp=sharing)
 * [AP1 - Bases (Utilize apenas a designada para seu grupo!)](/./assets/ibm0112_datamining/AP1_Bases.zip)
 * [AP1 - Proposta de soluções](https://drive.google.com/file/d/1f5gnkUj9UdbN0Mb-BAxZvo9BKGqknlDU/view?usp=sharing)
-<!-- * [LAB 02 - Tarefas práticas (Árvore de Decisão)](https://drive.google.com/file/d/1IvUUNrT7a3vCfVrkDw1jzbtbVyg9wTaK/view?usp=sharing) -->
+* [LAB 02 - Tarefas práticas (Árvore de Decisão)](https://drive.google.com/file/d/1IvUUNrT7a3vCfVrkDw1jzbtbVyg9wTaK/view?usp=sharing)
 <!-- * [LAB 03 - Tarefas práticas (Modelagem)](https://drive.google.com/file/d/1zOuNsV9BhIhTCuoYP8kPGvvP6XTaYxrr/view?usp=sharing) -->
 <!-- * [AP2 - Registro de grupos](https://drive.google.com/file/d/1VdITxPmgC9wePdZelvYEX605Pr5KXwOt/view?usp=sharing) -->
 <!-- * [AP2 - Questões](https://drive.google.com/file/d/1dUDoP1I9XRBIuepqGzeUm1DVKTfTFvK4/view?usp=sharing) -->
@@ -65,6 +65,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Dados para a Aula exercícios AP1 (Credit Dataset)](/./assets/ibm0112_datamining/Dados_Aula_Exercícicios_AP1.zip)
 <!-- * [Dados para a Aula 18 (Naive Bayes)](/./assets/ibm0112_datamining/Dados_Aula18.zip) -->
 * [Dados para a Aula 20 (Árvores de decisão)](/./assets/ibm0112_datamining/Dados_Aula20.zip)
+* [Dados para o Lab02 (Árvore de Decisão)](/./assets/ibm0112_datamining/Dados_Lab02.zip)
 <!-- * [Dados para a Aula 22 (Regressões)](/./assets/ibm0112_datamining/Dados_Aula22.zip) -->
 <!-- * [Dados para a Aula 26 (Agrupamentos)](/./assets/ibm0112_datamining/Dados_Aula26.zip) -->
 <!-- * [TEXTO](LINK) -->
