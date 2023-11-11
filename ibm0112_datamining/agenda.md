@@ -32,7 +32,7 @@
 | **03/nov** |       **RECESSO DIA DE FINADOS**        |
 |   06/nov   |        Laboratório de informática       |
 |   10/nov   |       Regressão linear e logística      |
-|   13/nov   |               Agrupamentos              |
+|   13/nov   |       Regressão linear e logística      |
 |   17/nov   |            **Semana de AP2**            |
 |   20/nov   |  **FERIADO DIA DA CONSCIÊNCIA NEGRA**   |
 | **24/nov** | **NÃO HAVERÁ AULAS - VESTIBULAR IBMEC** |
