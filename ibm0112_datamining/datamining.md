@@ -54,7 +54,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [AP1 - Bases (Utilize apenas a designada para seu grupo!)](/./assets/ibm0112_datamining/AP1_Bases.zip)
 * [AP1 - Proposta de soluções](https://drive.google.com/file/d/1f5gnkUj9UdbN0Mb-BAxZvo9BKGqknlDU/view?usp=sharing)
 * [LAB 02 - Tarefas práticas (Árvore de Decisão)](https://drive.google.com/file/d/1IvUUNrT7a3vCfVrkDw1jzbtbVyg9wTaK/view?usp=sharing)
-<!-- * [LAB 03 - Tarefas práticas (Modelagem)](https://drive.google.com/file/d/1zOuNsV9BhIhTCuoYP8kPGvvP6XTaYxrr/view?usp=sharing) -->
+* [LAB 02 - Tarefas práticas (Árvore de Decisão) (Proposta de soluções)](https://drive.google.com/file/d/1ZfjOUixugVjpVBaHXD4lnlDSR6YaiJT5/view?usp=sharing)
 * [AP2 - Registro de grupos](https://drive.google.com/file/d/1VdITxPmgC9wePdZelvYEX605Pr5KXwOt/view?usp=sharing)
 * [AP2 - Questões](https://drive.google.com/file/d/1dUDoP1I9XRBIuepqGzeUm1DVKTfTFvK4/view?usp=sharing)
 
@@ -73,7 +73,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 ## Resultados
 * [LAB 01 - Tarefas práticas - Resultado](/./assets/ibm0112_datamining/Turma8002_S22023_Resultados_Lab01.pdf)
 * [AP1 - Resultado](/./assets/ibm0112_datamining/Turma8002_S22023_Resultados_AP1.pdf)
-<!-- * [LAB 02 - Tarefas práticas (Árvore de Decisão) - Resultado](/./assets/ibm0112_datamining/Turma8002_S22023_Resultados_Lab02.pdf) -->
+* [LAB 02 - Tarefas práticas (Árvore de Decisão) - Resultado](/./assets/ibm0112_datamining/Turma8002_S22023_Resultados_Lab02.pdf)
 <!-- * [LAB 03 - Modelagem - Resultado](/./assets/ibm0112_datamining/Turma8002_S22023_Resultados_Lab03.pdf) -->
 <!-- * [AP2 - Resultado](/./assets/ibm0112_datamining/Turma8002_S22023_Resultados_AP2.pdf) -->
 <!-- * [AS - Resultado](/./assets/ibm0112_datamining/Turma8002_S22023_Resultados_AS.pdf) -->
