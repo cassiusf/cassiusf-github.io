@@ -3,7 +3,7 @@
 Vou colocar nessa página links das aulas e materiais adicionais referentes à disciplina.
 
 <!-- * [Agenda](agenda.md) -->
-* [GRID](grid.md)
+<!-- * [GRID](grid.md) -->
 
 ## Sugestões de canais no YouTube
 * [Programação Dinâmica](https://www.youtube.com/c/ProgramacaoDinamica/)
