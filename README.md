@@ -5,7 +5,6 @@ O objetivo dessa página é incluir os materiais das disciplinas lecionadas no I
 ## Disciplinas
 
 * [IBM0112 - Data Mining](/ibm0112_datamining/datamining.md)
-* [IBM8910 - Programação para Análise de Dados](/prog_analise_de_ados/prog_analide_de_dados.md)
 
 ## Links úteis
 
