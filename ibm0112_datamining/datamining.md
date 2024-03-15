@@ -32,7 +32,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Aula 00 - Quebrando o gelo](https://drive.google.com/file/d/1ucfSOn7Su8uJPRAP4bqN7IKdRuJmwiVP/view?usp=sharing)
 <!-- * [Aula 01 - Avaliando o conhecimento de Python](https://drive.google.com/file/d/1F0OPWg6samjvcTPvBjO6q333YXwCLulD/view?usp=sharing) -->
 * [01a - Introdução à linguagem e Python 101](https://drive.google.com/file/d/1X3bCtwIsB5eb4u2IBEDe-0l9pjsT673B/view?usp=sharing)
-<!-- * [Aula 07 - Importação de módulos externos (bibliotecas) com linguagem Python](https://drive.google.com/file/d/1Dyk5c18dz1EJeTG_zb7APiR3S59-g6N4/view?usp=sharing) -->
+* [02 - Importação de bibliotecas, Math e Random](https://drive.google.com/file/d/1Dyk5c18dz1EJeTG_zb7APiR3S59-g6N4/view?usp=sharing)
 <!-- * [Aula 08 - A biblioteca Pandas e extração de dados com linguagem Python](https://drive.google.com/file/d/1-EjbsfgRCpJx33sJ0-h7IszwCh1i0nNw/view?usp=sharing) -->
 <!-- * [Aula 09 - Manipulando dados com a biblioteca Pandas](https://drive.google.com/file/d/1fvXb9aUnaNJu_f7NvQa9EZNNtB11onKM/view?usp=sharing) -->
 <!-- * [Aulas 10 e 11 - Visualizando dados (Distribuições)](https://drive.google.com/file/d/1SMekUk7PdPU9GA76Yo3fOqscemwpWAa5/view?usp=sharing) -->
