@@ -50,7 +50,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 <!-- * [Exercícios preparação AP1](https://drive.google.com/file/d/1ybE2LTqUp55Z8NR48vKgTECYssc5Gzkj/view?usp=sharing) -->
 <!-- * [Exercícios preparação AP1 (proposta de soluções)](https://drive.google.com/file/d/1KJ-TvF2BP0QvvllM2B8fFWlaLvUh9Jvs/view?usp=sharing) -->
 <!-- * [AP1 - Registro de grupos](https://drive.google.com/file/d/15iVa1RwARtAarW_adclbiNbt8T9MoBpq/view?usp=sharing) -->
-<!-- * [AP1 - Questões](https://drive.google.com/file/d/1sMJRLzOp16XTvaeZK8JvIP0dzsuEqllo/view?usp=sharing) -->
+* [AP1 (Questões propostas)](https://drive.google.com/file/d/1pUyMXCzUDTQaCvBn9s4RQzCvDjfMpY_g/view?usp=sharing)
 <!-- * [AP1 - Bases (Utilize apenas a designada para seu grupo!)](/./assets/ibm0112_datamining/AP1_Bases.zip) -->
 <!-- * [AP1 - Proposta de soluções](https://drive.google.com/file/d/1f5gnkUj9UdbN0Mb-BAxZvo9BKGqknlDU/view?usp=sharing) -->
 <!-- * [LAB 02 - Tarefas práticas (Árvore de Decisão)](https://drive.google.com/file/d/1IvUUNrT7a3vCfVrkDw1jzbtbVyg9wTaK/view?usp=sharing) -->
