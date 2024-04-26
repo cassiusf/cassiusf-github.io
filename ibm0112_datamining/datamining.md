@@ -35,6 +35,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [02 - Importação de bibliotecas, Math e Random](https://drive.google.com/file/d/1Dyk5c18dz1EJeTG_zb7APiR3S59-g6N4/view?usp=sharing)
 <!-- * [03 - A biblioteca Pandas e extração de dados com linguagem Python](https://drive.google.com/file/d/1-EjbsfgRCpJx33sJ0-h7IszwCh1i0nNw/view?usp=sharing) -->
 * [03 - Manipulando dados com a biblioteca Pandas](https://drive.google.com/file/d/1fvXb9aUnaNJu_f7NvQa9EZNNtB11onKM/view?usp=sharing)
+* [04 - Manipulação avançada de dados com Pandas](https://drive.google.com/file/d/1T0Z-7w7OogS8X_8mvCtFx8FXT7Dt5n9y/view?usp=sharing)
 <!-- * [Aulas 10 e 11 - Visualizando dados (Distribuições)](https://drive.google.com/file/d/1SMekUk7PdPU9GA76Yo3fOqscemwpWAa5/view?usp=sharing) -->
 <!-- * [Aulas 12 e 13 - Visualizando dados em Python](https://drive.google.com/file/d/15Vu65XXkNmzGE34FpJiBP8VHod_QmwRq/view?usp=sharing) -->
 <!-- * [Aula 16 - KNN](https://drive.google.com/file/d/1ManMJsz5SeJK_5hAX-DZ9M1N16-kf86q/view?usp=sharing) -->
