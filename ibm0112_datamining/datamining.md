@@ -18,7 +18,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [Apresentação da disciplina](/./assets/ibm0112_datamining/00 - Apresentação.pdf)
 * [Introdução ao Python](/./assets/ibm0112_datamining/01 - Introduçao ao Python.pdf)
 * [Visualização de dados](/./assets/ibm0112_datamining/05 - Visualização de dados.pdf)
-<!-- * [Tipos de visualizações de dados](/./assets/ibm0112_datamining/04 - Tipos de visualizações de dados.pdf) -->
+* [Tipos de visualizações de dados](/./assets/ibm0112_datamining/04 - Tipos de visualizações de dados.pdf)
 <!-- * [O processo de mineraçao de dados](/./assets/ibm0112_datamining/02 - O processo de mineraçao de dados.pdf)
 <!-- * [Avaliação de modelos](/./assets/ibm0112_datamining/05 - Avaliação de modelos.pdf) -->
 <!-- * [KNN](/./assets/ibm0112_datamining/06 - KNN.pdf) -->
@@ -37,7 +37,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [03 - Manipulando dados com a biblioteca Pandas](https://drive.google.com/file/d/1fvXb9aUnaNJu_f7NvQa9EZNNtB11onKM/view?usp=sharing)
 * [04 - Manipulação avançada de dados com Pandas](https://drive.google.com/file/d/1T0Z-7w7OogS8X_8mvCtFx8FXT7Dt5n9y/view?usp=sharing)
 <!-- * [Aulas 10 e 11 - Visualizando dados (Distribuições)](https://drive.google.com/file/d/1SMekUk7PdPU9GA76Yo3fOqscemwpWAa5/view?usp=sharing) -->
-<!-- * [Aulas 12 e 13 - Visualizando dados em Python](https://drive.google.com/file/d/15Vu65XXkNmzGE34FpJiBP8VHod_QmwRq/view?usp=sharing) -->
+* [05 - Visualizando dados em Python](https://drive.google.com/file/d/15Vu65XXkNmzGE34FpJiBP8VHod_QmwRq/view?usp=sharing)
 <!-- * [Aula 16 - KNN](https://drive.google.com/file/d/1ManMJsz5SeJK_5hAX-DZ9M1N16-kf86q/view?usp=sharing) -->
 <!-- * [Aula 18 - Naïve Bayes](https://drive.google.com/file/d/1txLX-GxdGm6Hyi-_LkPfdNFPKdWOjfsD/view?usp=sharing) -->
 <!-- * [Aula 20 - Árvores de decisão](https://drive.google.com/file/d/1Y7FtgZaq5MMWjISg2zWczXbFTUWR_0jQ/view?usp=sharing) -->
