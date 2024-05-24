@@ -62,7 +62,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 ## Dados usados em sala
 * [Dados para o Colab 03](/./assets/ibm0112_datamining/Dados_Colab03.zip)
 <!-- * [Dados para a Aulas 09, 10 e 11](/./assets/ibm0112_datamining/Dados_Aula09.zip) -->
-<!-- * [Dados para a Aulas 12 e 13](/./assets/ibm0112_datamining/Dados_Aulas12e13.zip) -->
+* [Dados para visualização de dados](/./assets/ibm0112_datamining/Dados_Aulas12e13.zip)
 <!-- * [Dados para a Aula exercícios AP1 (Credit Dataset)](/./assets/ibm0112_datamining/Dados_Aula_Exercícicios_AP1.zip) -->
 <!-- * [Dados para a Aula 18 (Naive Bayes)](/./assets/ibm0112_datamining/Dados_Aula18.zip) -->
 <!-- * [Dados para a Aula 20 (Árvores de decisão)](/./assets/ibm0112_datamining/Dados_Aula20.zip) -->
