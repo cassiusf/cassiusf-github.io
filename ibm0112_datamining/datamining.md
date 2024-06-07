@@ -54,10 +54,10 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [AP1 (Questões propostas)](https://drive.google.com/file/d/1pUyMXCzUDTQaCvBn9s4RQzCvDjfMpY_g/view?usp=sharing)
 <!-- * [AP1 - Bases (Utilize apenas a designada para seu grupo!)](/./assets/ibm0112_datamining/AP1_Bases.zip) -->
 <!-- * [AP1 - Proposta de soluções](https://drive.google.com/file/d/1f5gnkUj9UdbN0Mb-BAxZvo9BKGqknlDU/view?usp=sharing) -->
-<!-- * [LAB 02 - Tarefas práticas (Árvore de Decisão)](https://drive.google.com/file/d/1IvUUNrT7a3vCfVrkDw1jzbtbVyg9wTaK/view?usp=sharing) -->
+* [LAB 02 - Tarefas práticas (Carga e análise de dados)](https://drive.google.com/file/d/1V29n6Ib79UrJkA1i2fA67wXeMtT75Evv/view?usp=sharing)
 <!-- * [LAB 02 - Tarefas práticas (Árvore de Decisão) (Proposta de soluções)](https://drive.google.com/file/d/1ZfjOUixugVjpVBaHXD4lnlDSR6YaiJT5/view?usp=sharing) -->
 <!-- * [AP2 - Registro de grupos](https://drive.google.com/file/d/1VdITxPmgC9wePdZelvYEX605Pr5KXwOt/view?usp=sharing) -->
-<!-- * [AP2 - Questões](https://drive.google.com/file/d/1dUDoP1I9XRBIuepqGzeUm1DVKTfTFvK4/view?usp=sharing) -->
+<!-- * [AP2 - Questões](https://drive.google.com/file/d/1hCZaCMQzKsHda5IXxXCjrcFV7SGCrVBV/view?usp=sharing) -->
 
 ## Dados usados em sala
 * [Dados para o Colab 03](/./assets/ibm0112_datamining/Dados_Colab03.zip)
