@@ -57,7 +57,7 @@ Vou colocar nessa página links das aulas e materiais adicionais referentes à d
 * [LAB 02 - Tarefas práticas (Carga e análise de dados)](https://drive.google.com/file/d/1V29n6Ib79UrJkA1i2fA67wXeMtT75Evv/view?usp=sharing)
 <!-- * [LAB 02 - Tarefas práticas (Árvore de Decisão) (Proposta de soluções)](https://drive.google.com/file/d/1ZfjOUixugVjpVBaHXD4lnlDSR6YaiJT5/view?usp=sharing) -->
 <!-- * [AP2 - Registro de grupos](https://drive.google.com/file/d/1VdITxPmgC9wePdZelvYEX605Pr5KXwOt/view?usp=sharing) -->
-<!-- * [AP2 - Questões](https://drive.google.com/file/d/1hCZaCMQzKsHda5IXxXCjrcFV7SGCrVBV/view?usp=sharing) -->
+* [AP2 - Questões](https://drive.google.com/file/d/1hCZaCMQzKsHda5IXxXCjrcFV7SGCrVBV/view?usp=sharing)
 
 ## Dados usados em sala
 * [Dados para o Colab 03](/./assets/ibm0112_datamining/Dados_Colab03.zip)
